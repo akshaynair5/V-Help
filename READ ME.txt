@@ -1,0 +1,8 @@
+This File consists of the instruction on how to use our project:V-HELP website.
+
+1)XAMMP can be used to host the website locally and whuch can be downloaded through the internet.
+2)The file called vhelp given in this folder has to be copied to the following place...
+	This PC\xampp\mysql\data hence our database will be visible and the website will be able to accept and store data
+3)Once the data base is copied then type 'localhost/phpmyadmin' on your preffered browser to open the database 
+4)now open 'localhost/LoginStudent' to sign in to the website using the various default identities that are already given.
+5)Follow the same steps to open the register file to register in new users as well.
