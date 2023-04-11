@@ -1,10 +1,10 @@
 # Hostel-Complain-System
 
-The aim of this project was to build a website for students which helps 
-students to file hostel related complaints online. a website using which we aim to 
+The aim of this project was to build a website for students which enables 
+students to file hostel related complaints online. A website using which we aim to 
 provide a helping hand for students as well as workers so that the students do not 
-have to worry about problems that are not in their hand and also workers don’t 
-have a problem in sorting the wide array of problems reported in a hostel like 
+have to worry about problems that are not in their hands and also workers don’t 
+have a problem in sorting the wide array of problems/complaints reported in a hostel like 
 environment. The aim of the project is to make a software/technological system 
 which allows the students to file a complaint online and assign the complaints 
 directly to workers according to the nature of the work.
