@@ -44,17 +44,17 @@ STUDENT FEEBACK FORM
 <img width="404" alt="image" src="https://user-images.githubusercontent.com/108605741/209649871-8ccd6316-2e30-4a68-9c3b-7d6bda0924fa.png">
 
 
-Now moving on to the workers side of the website where the complants are to accepted and resolved. 
+Now moving on to the workers side of the website where the complants are to be accepted and resolved. 
 
-WORKER HOME PAGE
+WORKER'S HOME PAGE
 
 <img width="404" alt="image" src="https://user-images.githubusercontent.com/108605741/209649766-e80ce842-7a97-4643-a960-e31ebd2f5569.png">
 
-WORKER JOB STATUS REVIEW
+WORKER'S JOB STATUS REVIEW
 
 <img width="407" alt="image" src="https://user-images.githubusercontent.com/108605741/209649808-ee86b77e-2a7b-44c1-ac2c-09e11603cb10.png">
 
-Admin page 
+ADMIN PANEL 
 
 <img width="408" alt="image" src="https://user-images.githubusercontent.com/108605741/209650072-21f25ea3-092e-4142-ac99-9115aa58d4d2.png">
 
