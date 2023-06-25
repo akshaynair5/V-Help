@@ -23,7 +23,7 @@ for students as well as workers so that the students do not have to worry about
 problems that are not in their hand and also workers don’t have a problem in 
 sorting the wide array of problems reported in a hostel like environment. 
 
-SIGN-UP
+SIGN-UP PAGE
 
 <img width="403" alt="image" src="https://user-images.githubusercontent.com/108605741/209649482-d1b3ab9d-e8f8-4e56-94e5-a4718d42e360.png">
 
